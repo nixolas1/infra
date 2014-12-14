@@ -8,6 +8,7 @@ A secure java-based IRC chat client with a simple design.
 Infra encodes the encrypted text with the TopKek algorithm, which uses keywords that trigger watchlisting from FBI, NSA and Homeland Security.
 
 Example:
+
 ```test = cia begin cross shape spill enforcement epidemic defcon back irbm case start patrol since stanford rsa qGrwHIM6JIccnijPmg8TCw```
 
 Most interesting files:
