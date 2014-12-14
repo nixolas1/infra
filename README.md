@@ -1,4 +1,4 @@
-infra
+Infra
 =====
 
 A secure java-based IRC chat client with a simple design.
